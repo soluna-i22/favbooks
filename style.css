@@ -2,16 +2,19 @@
 h1{
 	font-family: 'Merriweather', serif;
 	text-align: center;
+	color: #6B705C;
 }
 
 h3{ 
 	font-family: 'Merriweather', serif;
 	text-align: center;
+	color: #CB997E;
  }
 
 p {
 	font-family: 'Playfair Display', serif;
 	text-align: center;
+	color: #86792c;
 }
 h4{ 
 	font-family: 'Playfair Display', serif;
@@ -24,6 +27,11 @@ ul{
 h5{
 	font: Josefin Sans;
 	text-align: center;
+	color: #6c584c;
+}
+
+li{
+	text-align: center;
 }
 
 .center{
@@ -31,3 +39,11 @@ h5{
 	margin-left: auto;
 	margin-right: auto;
 }
+
+body{
+	background-color: #f0ead2;
+}
+
+
+
+
