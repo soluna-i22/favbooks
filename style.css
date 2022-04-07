@@ -1,37 +1,41 @@
 
 h1{
-	font-family: 'Merriweather', serif;
+	
 	text-align: center;
 	color: #6B705C;
 }
 
 h3{ 
-	font-family: 'Merriweather', serif;
+	
 	text-align: center;
 	color: #CB997E;
  }
 
 p {
-	font-family: 'Playfair Display', serif;
+	font-family: 'Merriweather', serif;
 	text-align: center;
 	color: #86792c;
 }
 h4{ 
-	font-family: 'Playfair Display', serif;
 	text-align: center;
+	font-family: 'Playfair Display', serif;
 }
 ul{
-	font: Barlow Condensed;
+	font: 'Merriweather', serif;
+	color: #83c5be;
 }
 
 h5{
-	font: Josefin Sans;
+	font: 'Merriweather', serif;
 	text-align: center;
 	color: #6c584c;
 }
 
 li{
 	text-align: center;
+	list-style: none;
+	color: #d90429;
+
 }
 
 .center{
